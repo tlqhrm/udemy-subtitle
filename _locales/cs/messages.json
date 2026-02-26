@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Překladač titulků pro Udemy. Zobrazí dvojjazyčné titulky."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Duální titulky - Překladač titulků"
+   },
+   "ext_name": {
+      "message": "Udemy Duální titulky"
+   },
+   "ext_subname": {
+      "message": "Překladač titulků"
+   },
+   "feedback": {
+      "message": "Zpětná vazba"
+   },
+   "language": {
+      "message": "Czech"
+   },
+   "tab_advanced_settings": {
+      "message": "Pokročilé nastavení"
+   },
+   "tab_basic_settings": {
+      "message": "Základní nastavení"
+   },
+   "tab_more_operations": {
+      "message": "Více operací"
+   },
+   "thanks": {
+      "message": "Stavět s ❤️. Děkujeme za použití."
+   },
+   "translate_to": {
+      "message": "Přeložit do:"
+   },
+   "translation_switch": {
+      "message": "Přepínač překladu:"
+   }
+}

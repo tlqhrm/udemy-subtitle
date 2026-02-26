@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Tagasalin ng subtitle para sa Udemy. Nagpapakita ng mga bilingual na subtitle."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dual Subtitles - Tagasalin ng Subtitle"
+   },
+   "ext_name": {
+      "message": "Udemy Dual Subtitles"
+   },
+   "ext_subname": {
+      "message": "Tagasalin ng Subtitle"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Filipino"
+   },
+   "tab_advanced_settings": {
+      "message": "Mga Advanced na Setting"
+   },
+   "tab_basic_settings": {
+      "message": "Mga Pangunahing Setting"
+   },
+   "tab_more_operations": {
+      "message": "Higit pang mga Operasyon"
+   },
+   "thanks": {
+      "message": "Bumuo gamit ang ❤️. Salamat sa paggamit."
+   },
+   "translate_to": {
+      "message": "Isalin sa:"
+   },
+   "translation_switch": {
+      "message": "Paglipat ng Pagsasalin:"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Преводач на субтитри за Udemy. Показва двуезични субтитри."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Двойни субтитри - Преводач на субтитри"
+   },
+   "ext_name": {
+      "message": "Udemy Двойни субтитри"
+   },
+   "ext_subname": {
+      "message": "Преводач на субтитри"
+   },
+   "feedback": {
+      "message": "Обратна връзка"
+   },
+   "language": {
+      "message": "Bulgarian"
+   },
+   "tab_advanced_settings": {
+      "message": "Разширени настройки"
+   },
+   "tab_basic_settings": {
+      "message": "Основни настройки"
+   },
+   "tab_more_operations": {
+      "message": "Още операции"
+   },
+   "thanks": {
+      "message": "Изградете с ❤️. Благодаря за използването."
+   },
+   "translate_to": {
+      "message": "преведете на:"
+   },
+   "translation_switch": {
+      "message": "Превключвател за превод:"
+   }
+}

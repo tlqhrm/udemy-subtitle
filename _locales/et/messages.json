@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Subtiitrite tõlkija Udemy. Kuvab kakskeelsed subtiitrid."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy kahesugused subtiitrid - Subtiitrite tõlkija"
+   },
+   "ext_name": {
+      "message": "Udemy kahesugused subtiitrid"
+   },
+   "ext_subname": {
+      "message": "Subtiitrite tõlkija"
+   },
+   "feedback": {
+      "message": "Tagasiside"
+   },
+   "language": {
+      "message": "Estonian"
+   },
+   "tab_advanced_settings": {
+      "message": "Täpsemad seaded"
+   },
+   "tab_basic_settings": {
+      "message": "Põhiseaded"
+   },
+   "tab_more_operations": {
+      "message": "Rohkem toiminguid"
+   },
+   "thanks": {
+      "message": "Ehita koos ❤️. Täname kasutamast."
+   },
+   "translate_to": {
+      "message": "Tõlgi keelde:"
+   },
+   "translation_switch": {
+      "message": "Tõlke lüliti:"
+   }
+}

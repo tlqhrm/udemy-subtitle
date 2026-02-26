@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "مترجم ترجمة Udemy. يعرض ترجمات ثنائية اللغة."
+   },
+   "ext_fulltitle": {
+      "message": "مترجم الترجمة - Udemy ترجمات مزدوجة"
+   },
+   "ext_name": {
+      "message": "Udemy ترجمات مزدوجة"
+   },
+   "ext_subname": {
+      "message": "مترجم الترجمة"
+   },
+   "feedback": {
+      "message": "استجابة"
+   },
+   "language": {
+      "message": "Arabic"
+   },
+   "tab_advanced_settings": {
+      "message": "إعدادات متقدمة"
+   },
+   "tab_basic_settings": {
+      "message": "الإعدادات الأساسية"
+   },
+   "tab_more_operations": {
+      "message": "المزيد من العمليات"
+   },
+   "thanks": {
+      "message": "بناء مع ❤️. شكرا لاستخدام."
+   },
+   "translate_to": {
+      "message": "ترجمة الى:"
+   },
+   "translation_switch": {
+      "message": "تبديل الترجمة:"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "מתרגם כתוביות עבור Udemy. מציג כתוביות דו לשוניות."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy כתוביות כפולות - מתרגם כתוביות"
+   },
+   "ext_name": {
+      "message": "Udemy כתוביות כפולות"
+   },
+   "ext_subname": {
+      "message": "מתרגם כתוביות"
+   },
+   "feedback": {
+      "message": "מָשׁוֹב"
+   },
+   "language": {
+      "message": "Hebrew"
+   },
+   "tab_advanced_settings": {
+      "message": "הגדרות מתקדמות"
+   },
+   "tab_basic_settings": {
+      "message": "הגדרות בסיסיות"
+   },
+   "tab_more_operations": {
+      "message": "פעולות נוספות"
+   },
+   "thanks": {
+      "message": "בנה עם ❤️. תודה על השימוש."
+   },
+   "translate_to": {
+      "message": "לתרגם ל:"
+   },
+   "translation_switch": {
+      "message": "מתג תרגום:"
+   }
+}

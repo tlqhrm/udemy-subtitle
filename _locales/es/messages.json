@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Traductor de subtítulos para Udemy. Muestra subtítulos bilingües."
+   },
+   "ext_fulltitle": {
+      "message": "Subtítulos dobles de Udemy - Traductora de subtítulos"
+   },
+   "ext_name": {
+      "message": "Subtítulos dobles de Udemy"
+   },
+   "ext_subname": {
+      "message": "Traductora de subtítulos"
+   },
+   "feedback": {
+      "message": "Realimentación"
+   },
+   "language": {
+      "message": "Spanish"
+   },
+   "tab_advanced_settings": {
+      "message": "Ajustes avanzados"
+   },
+   "tab_basic_settings": {
+      "message": "Ajustes básicos"
+   },
+   "tab_more_operations": {
+      "message": "Más operaciones"
+   },
+   "thanks": {
+      "message": "Construye con ❤️. Gracias por usar."
+   },
+   "translate_to": {
+      "message": "Traducir a:"
+   },
+   "translation_switch": {
+      "message": "Interruptor de traducción:"
+   }
+}

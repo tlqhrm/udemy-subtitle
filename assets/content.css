@@ -1,0 +1,17 @@
+div[class^="captions-display--captions-container--"] div {
+  /* color: red !important; */
+  max-width: 100% !important;
+  text-align: center !important;
+}
+
+div[class^="well--container--"] span {
+  /* color: red !important; */
+  max-width: 100% !important;
+  text-align: center !important;
+}
+
+div[class^="_caption-container"] div {
+  /* color: red !important; */
+  max-width: 100% !important;
+  text-align: center !important;
+}

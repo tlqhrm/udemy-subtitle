@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Subtitle translator for Udemy. Displays bilingual subtitles."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dual Subtitles - Subtitle Translator"
+   },
+   "ext_name": {
+      "message": "Udemy Dual Subtitles"
+   },
+   "ext_subname": {
+      "message": "Subtitle Translator"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "English"
+   },
+   "tab_advanced_settings": {
+      "message": "Advanced Settings"
+   },
+   "tab_basic_settings": {
+      "message": "Basic Settings"
+   },
+   "tab_more_operations": {
+      "message": "More Operations"
+   },
+   "thanks": {
+      "message": "Build with ❤️. Thanks for using."
+   },
+   "translate_to": {
+      "message": "Translate to:"
+   },
+   "translation_switch": {
+      "message": "Translation Switch:"
+   }
+}

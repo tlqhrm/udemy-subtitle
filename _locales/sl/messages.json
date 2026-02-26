@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Prevajalec podnapisov za Udemy. Prikaže dvojezične podnapise."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dvojni podnapisi - Prevajalec podnapisov"
+   },
+   "ext_name": {
+      "message": "Udemy Dvojni podnapisi"
+   },
+   "ext_subname": {
+      "message": "Prevajalec podnapisov"
+   },
+   "feedback": {
+      "message": "Povratne informacije"
+   },
+   "language": {
+      "message": "Slovenian"
+   },
+   "tab_advanced_settings": {
+      "message": "Napredne nastavitve"
+   },
+   "tab_basic_settings": {
+      "message": "Osnovne nastavitve"
+   },
+   "tab_more_operations": {
+      "message": "Več operacij"
+   },
+   "thanks": {
+      "message": "Gradite z ❤️. Hvala za uporabo."
+   },
+   "translate_to": {
+      "message": "Prevedi v:"
+   },
+   "translation_switch": {
+      "message": "Prevajalsko stikalo:"
+   }
+}

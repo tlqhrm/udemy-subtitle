@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Udemy용 자막 번역기. 이중 언어 자막을 표시합니다."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy 이중 자막 - 자막 번역기"
+   },
+   "ext_name": {
+      "message": "Udemy 이중 자막"
+   },
+   "ext_subname": {
+      "message": "자막 번역기"
+   },
+   "feedback": {
+      "message": "피드백"
+   },
+   "language": {
+      "message": "Korean"
+   },
+   "tab_advanced_settings": {
+      "message": "고급 설정"
+   },
+   "tab_basic_settings": {
+      "message": "기본 설정"
+   },
+   "tab_more_operations": {
+      "message": "추가 작업"
+   },
+   "thanks": {
+      "message": "❤️으로 구축하세요. 이용해 주셔서 감사합니다."
+   },
+   "translate_to": {
+      "message": "번역:"
+   },
+   "translation_switch": {
+      "message": "번역 스위치:"
+   }
+}

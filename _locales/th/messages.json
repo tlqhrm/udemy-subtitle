@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "โปรแกรมแปลคำบรรยายสำหรับ Udemy แสดงคำบรรยายสองภาษา"
+   },
+   "ext_fulltitle": {
+      "message": "Udemy คำบรรยายคู่ - นักแปลคำบรรยาย"
+   },
+   "ext_name": {
+      "message": "Udemy คำบรรยายคู่"
+   },
+   "ext_subname": {
+      "message": "นักแปลคำบรรยาย"
+   },
+   "feedback": {
+      "message": "คำติชม"
+   },
+   "language": {
+      "message": "Thai"
+   },
+   "tab_advanced_settings": {
+      "message": "ตั้งค่าขั้นสูง"
+   },
+   "tab_basic_settings": {
+      "message": "การตั้งค่าพื้นฐาน"
+   },
+   "tab_more_operations": {
+      "message": "การดำเนินงานเพิ่มเติม"
+   },
+   "thanks": {
+      "message": "สร้างด้วย❤️. ขอบคุณที่ใช้."
+   },
+   "translate_to": {
+      "message": "แปลเป็น:"
+   },
+   "translation_switch": {
+      "message": "สวิตช์การแปล:"
+   }
+}

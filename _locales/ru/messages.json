@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Переводчик субтитров для Udemy. Отображает двуязычные субтитры."
+   },
+   "ext_fulltitle": {
+      "message": "Двойные субтитры Udemy - Переводчик субтитров"
+   },
+   "ext_name": {
+      "message": "Двойные субтитры Udemy"
+   },
+   "ext_subname": {
+      "message": "Переводчик субтитров"
+   },
+   "feedback": {
+      "message": "Обратная связь"
+   },
+   "language": {
+      "message": "Russian"
+   },
+   "tab_advanced_settings": {
+      "message": "Расширенные настройки"
+   },
+   "tab_basic_settings": {
+      "message": "Основные настройки"
+   },
+   "tab_more_operations": {
+      "message": "Дополнительные операции"
+   },
+   "thanks": {
+      "message": "Строить с ❤️. Спасибо за использование."
+   },
+   "translate_to": {
+      "message": "Перевести на:"
+   },
+   "translation_switch": {
+      "message": "Переключатель перевода:"
+   }
+}

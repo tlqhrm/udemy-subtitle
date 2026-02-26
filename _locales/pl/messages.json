@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Tłumacz napisów dla Udemy. Wyświetla dwujęzyczne napisy."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Podwójne napisy - Tłumacz napisów"
+   },
+   "ext_name": {
+      "message": "Udemy Podwójne napisy"
+   },
+   "ext_subname": {
+      "message": "Tłumacz napisów"
+   },
+   "feedback": {
+      "message": "Sprzężenie zwrotne"
+   },
+   "language": {
+      "message": "Polish"
+   },
+   "tab_advanced_settings": {
+      "message": "Zaawansowane ustawienia"
+   },
+   "tab_basic_settings": {
+      "message": "Podstawowe ustawienia"
+   },
+   "tab_more_operations": {
+      "message": "Więcej operacji"
+   },
+   "thanks": {
+      "message": "Buduj z ❤️. Dzięki za korzystanie."
+   },
+   "translate_to": {
+      "message": "Przetłumacz na:"
+   },
+   "translation_switch": {
+      "message": "Przełącznik tłumaczenia:"
+   }
+}

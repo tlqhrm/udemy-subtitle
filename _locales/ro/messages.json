@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Traducător de subtitrare pentru Udemy. Afișează subtitrări bilingve."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dual Subtitrări - Traducător de subtitrări"
+   },
+   "ext_name": {
+      "message": "Udemy Dual Subtitrări"
+   },
+   "ext_subname": {
+      "message": "Traducător de subtitrări"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Romanian"
+   },
+   "tab_advanced_settings": {
+      "message": "Setari avansate"
+   },
+   "tab_basic_settings": {
+      "message": "Setări de bază"
+   },
+   "tab_more_operations": {
+      "message": "Mai multe operațiuni"
+   },
+   "thanks": {
+      "message": "Construiește cu ❤️. Vă mulțumim pentru utilizare."
+   },
+   "translate_to": {
+      "message": "Tradu in:"
+   },
+   "translation_switch": {
+      "message": "Comutator de traducere:"
+   }
+}

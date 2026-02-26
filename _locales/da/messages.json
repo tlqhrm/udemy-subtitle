@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Oversætter til undertekster til Udemy. Viser tosprogede undertekster."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dobbelt undertekster - Oversætter til undertekster"
+   },
+   "ext_name": {
+      "message": "Udemy Dobbelt undertekster"
+   },
+   "ext_subname": {
+      "message": "Oversætter til undertekster"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Danish"
+   },
+   "tab_advanced_settings": {
+      "message": "Avancerede indstillinger"
+   },
+   "tab_basic_settings": {
+      "message": "Grundlæggende indstillinger"
+   },
+   "tab_more_operations": {
+      "message": "Flere operationer"
+   },
+   "thanks": {
+      "message": "Byg med ❤️. Tak fordi du brugte."
+   },
+   "translate_to": {
+      "message": "Oversæt til:"
+   },
+   "translation_switch": {
+      "message": "skifte:"
+   }
+}

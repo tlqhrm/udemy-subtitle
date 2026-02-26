@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Untertitel-Übersetzer für Udemy. Zeigt zweisprachige Untertitel an."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dual-Untertitel - Untertitel-Übersetzer"
+   },
+   "ext_name": {
+      "message": "Udemy Dual-Untertitel"
+   },
+   "ext_subname": {
+      "message": "Untertitel-Übersetzer"
+   },
+   "feedback": {
+      "message": "Rückmeldung"
+   },
+   "language": {
+      "message": "German"
+   },
+   "tab_advanced_settings": {
+      "message": "Erweiterte Einstellungen"
+   },
+   "tab_basic_settings": {
+      "message": "Grundeinstellungen"
+   },
+   "tab_more_operations": {
+      "message": "Mehr Operationen"
+   },
+   "thanks": {
+      "message": "Bauen mit ❤️. Danke fürs Verwenden."
+   },
+   "translate_to": {
+      "message": "Übersetzen ins:"
+   },
+   "translation_switch": {
+      "message": "Übersetzungsschalter:"
+   }
+}

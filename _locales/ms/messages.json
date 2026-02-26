@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Penterjemah sari kata untuk Udemy. Memaparkan sari kata dwibahasa."
+   },
+   "ext_fulltitle": {
+      "message": "Sari Kata Udemy Dual - Penterjemah Sarikata"
+   },
+   "ext_name": {
+      "message": "Sari Kata Udemy Dual"
+   },
+   "ext_subname": {
+      "message": "Penterjemah Sarikata"
+   },
+   "feedback": {
+      "message": "Maklum balas"
+   },
+   "language": {
+      "message": "Malay"
+   },
+   "tab_advanced_settings": {
+      "message": "Tetapan lanjutan"
+   },
+   "tab_basic_settings": {
+      "message": "Tetapan Asas"
+   },
+   "tab_more_operations": {
+      "message": "Lebih Banyak Operasi"
+   },
+   "thanks": {
+      "message": "Bina dengan ❤️. Terima kasih kerana menggunakan."
+   },
+   "translate_to": {
+      "message": "Terjemah kepada:"
+   },
+   "translation_switch": {
+      "message": "Suis Terjemahan:"
+   }
+}

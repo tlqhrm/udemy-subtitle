@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Undertextsöversättare för Udemy. Visar tvåspråkiga undertexter."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy dubbla undertexter - undertext översättare"
+   },
+   "ext_name": {
+      "message": "Udemy dubbla undertexter"
+   },
+   "ext_subname": {
+      "message": "undertext översättare"
+   },
+   "feedback": {
+      "message": "Återkoppling"
+   },
+   "language": {
+      "message": "Swedish"
+   },
+   "tab_advanced_settings": {
+      "message": "Avancerade inställningar"
+   },
+   "tab_basic_settings": {
+      "message": "Grund inställningar"
+   },
+   "tab_more_operations": {
+      "message": "Fler operationer"
+   },
+   "thanks": {
+      "message": "Bygg med ❤️. Tack för att du använder."
+   },
+   "translate_to": {
+      "message": "Översätt till:"
+   },
+   "translation_switch": {
+      "message": "översättning Växla:"
+   }
+}

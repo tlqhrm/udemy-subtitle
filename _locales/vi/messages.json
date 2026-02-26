@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Người dịch phụ đề cho Udemy. Hiển thị phụ đề song ngữ."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy kép phụ đề - Trình dịch phụ đề"
+   },
+   "ext_name": {
+      "message": "Udemy kép phụ đề"
+   },
+   "ext_subname": {
+      "message": "Trình dịch phụ đề"
+   },
+   "feedback": {
+      "message": "Phản hồi"
+   },
+   "language": {
+      "message": "Vietnamese"
+   },
+   "tab_advanced_settings": {
+      "message": "Cài đặt nâng cao"
+   },
+   "tab_basic_settings": {
+      "message": "Cài đặt cơ bản"
+   },
+   "tab_more_operations": {
+      "message": "Hoạt động khác"
+   },
+   "thanks": {
+      "message": "Xây dựng với ❤️. Cảm ơn đã sử dụng."
+   },
+   "translate_to": {
+      "message": "Dịch sang:"
+   },
+   "translation_switch": {
+      "message": "Dịch Chuyển:"
+   }
+}

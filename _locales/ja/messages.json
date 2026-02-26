@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Udemyの字幕翻訳者。 バイリンガル字幕を表示します。"
+   },
+   "ext_fulltitle": {
+      "message": "Udemyデュアル字幕 - 字幕翻訳者"
+   },
+   "ext_name": {
+      "message": "Udemyデュアル字幕"
+   },
+   "ext_subname": {
+      "message": "字幕翻訳者"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "language": {
+      "message": "Japanese"
+   },
+   "tab_advanced_settings": {
+      "message": "高度な設定"
+   },
+   "tab_basic_settings": {
+      "message": "基本設定"
+   },
+   "tab_more_operations": {
+      "message": "その他の操作"
+   },
+   "thanks": {
+      "message": "❤️でビルドします。 ご利用いただきありがとうございます。"
+   },
+   "translate_to": {
+      "message": "翻訳："
+   },
+   "translation_switch": {
+      "message": "翻訳スイッチ："
+   }
+}

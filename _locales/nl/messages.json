@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Ondertitelvertaler voor Udemy. Geeft tweetalige ondertitels weer."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy dubbele ondertitels - Ondertitelvertaler"
+   },
+   "ext_name": {
+      "message": "Udemy dubbele ondertitels"
+   },
+   "ext_subname": {
+      "message": "Ondertitelvertaler"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Dutch"
+   },
+   "tab_advanced_settings": {
+      "message": "Geavanceerde instellingen"
+   },
+   "tab_basic_settings": {
+      "message": "Basis instellingen"
+   },
+   "tab_more_operations": {
+      "message": "Meer bewerkingen"
+   },
+   "thanks": {
+      "message": "Bouw met ❤️. Bedankt voor het gebruiken."
+   },
+   "translate_to": {
+      "message": "Vertalen naar:"
+   },
+   "translation_switch": {
+      "message": "Vertaling Switch:"
+   }
+}

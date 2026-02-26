@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Udemy için altyazı çevirmeni. İki dilli altyazıları görüntüler."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Çift Altyazı - Altyazı Çevirmeni"
+   },
+   "ext_name": {
+      "message": "Udemy Çift Altyazı"
+   },
+   "ext_subname": {
+      "message": "Altyazı Çevirmeni"
+   },
+   "feedback": {
+      "message": "Geri bildirim"
+   },
+   "language": {
+      "message": "Turkish"
+   },
+   "tab_advanced_settings": {
+      "message": "Gelişmiş Ayarlar"
+   },
+   "tab_basic_settings": {
+      "message": "Temel Ayarlar"
+   },
+   "tab_more_operations": {
+      "message": "Daha Fazla İşlem"
+   },
+   "thanks": {
+      "message": "❤️ ile inşa edin. Kullandığınız için teşekkürler."
+   },
+   "translate_to": {
+      "message": "Şu dile çevir:"
+   },
+   "translation_switch": {
+      "message": "Çeviri Anahtarı:"
+   }
+}

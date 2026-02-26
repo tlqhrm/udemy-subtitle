@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Tekstityskääntäjä Udemylle. Näyttää kaksikieliset tekstitykset."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Dual Tekstitykset - Tekstityksen kääntäjä"
+   },
+   "ext_name": {
+      "message": "Udemy Dual Tekstitykset"
+   },
+   "ext_subname": {
+      "message": "Tekstityksen kääntäjä"
+   },
+   "feedback": {
+      "message": "Palaute"
+   },
+   "language": {
+      "message": "Finnish"
+   },
+   "tab_advanced_settings": {
+      "message": "Lisäasetukset"
+   },
+   "tab_basic_settings": {
+      "message": "Perus asetukset"
+   },
+   "tab_more_operations": {
+      "message": "Lisää operaatioita"
+   },
+   "thanks": {
+      "message": "Rakenna ❤️. Kiitos käyttämisestä."
+   },
+   "translate_to": {
+      "message": "Käännä kielelle:"
+   },
+   "translation_switch": {
+      "message": "Käännöskytkin::"
+   }
+}

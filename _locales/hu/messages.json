@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Feliratfordító az Udemy számára. Kétnyelvű feliratokat jelenít meg."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy kettős felirat - Felirat fordító"
+   },
+   "ext_name": {
+      "message": "Udemy kettős felirat"
+   },
+   "ext_subname": {
+      "message": "Felirat fordító"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Hungarian"
+   },
+   "tab_advanced_settings": {
+      "message": "További beállítások"
+   },
+   "tab_basic_settings": {
+      "message": "Alapbeállítások"
+   },
+   "tab_more_operations": {
+      "message": "Még több művelet"
+   },
+   "thanks": {
+      "message": "❤️ építkezz. Köszönjük, hogy használta."
+   },
+   "translate_to": {
+      "message": "Fordítás:"
+   },
+   "translation_switch": {
+      "message": "Fordítási kapcsoló:"
+   }
+}

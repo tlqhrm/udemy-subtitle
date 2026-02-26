@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Tradutor de legendas para Udemy. Exibe legendas bilíngues."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Legendas duplas - Tradutor de legendas"
+   },
+   "ext_name": {
+      "message": "Udemy Legendas duplas"
+   },
+   "ext_subname": {
+      "message": "Tradutor de legendas"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "language": {
+      "message": "Portuguese"
+   },
+   "tab_advanced_settings": {
+      "message": "Configurações avançadas"
+   },
+   "tab_basic_settings": {
+      "message": "Configurações básicas"
+   },
+   "tab_more_operations": {
+      "message": "Mais operações"
+   },
+   "thanks": {
+      "message": "Construa com ❤️. Obrigado por usar."
+   },
+   "translate_to": {
+      "message": "Traduza para:"
+   },
+   "translation_switch": {
+      "message": "Interruptor de tradução:"
+   }
+}

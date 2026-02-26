@@ -1,0 +1,45 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "assets/icon128.png",
+         "16": "assets/icon16.png",
+         "32": "assets/icon32.png",
+         "48": "assets/icon48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "/assets/content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://*.udemy.com/course/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": false,
+      "js": [ "injW.js" ],
+      "matches": [ "https://*.udemy.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "host_permissions": [  ],
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "32": "assets/icon32.png",
+      "48": "assets/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg3PXVVv8goP0NYH+JQE+zJSsYcak35TjyAjiLLj5XQcGzCzcLInAO/cUKxuly5Ay33YQ+xw+MW4SwcUlV3UYa9YK9yeIY4L8K/TbuHXuSV28WGf9PDGe73xDCE1hHAVWyh2F1IWH8OXIOaW5vKv6r4ics5FkYGd4s57vzV/MsSFBodx/PXGmn3JsvHUBSJDBpfDz0sPFjcyAB6yIaBRBIuT09y4xMp/bMVl29rcWlrbO1FRPbZgYKbBjNQg3ZgVdeFji8alWL3cJN7xSnnNtCYaJz8M6YxdrAqevnY193MlbvN9J7hqlgeYeSVLo9LS/wXdWzkRI6W00x+omeMbtcwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_ext_fulltitle__",
+   "options_page": "options.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.udemy.com/*" ],
+      "resources": [ "inj.js" ]
+   } ]
+}

@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Μεταφραστής υποτίτλων για το Udemy. Εμφανίζει δίγλωσσους υπότιτλους."
+   },
+   "ext_fulltitle": {
+      "message": "Udemy Διπλοί υπότιτλοι - Μεταφραστής υποτίτλων"
+   },
+   "ext_name": {
+      "message": "Udemy Διπλοί υπότιτλοι"
+   },
+   "ext_subname": {
+      "message": "Μεταφραστής υποτίτλων"
+   },
+   "feedback": {
+      "message": "ανατροφοδότηση"
+   },
+   "language": {
+      "message": "Greek"
+   },
+   "tab_advanced_settings": {
+      "message": "Προηγμένες ρυθμίσεις"
+   },
+   "tab_basic_settings": {
+      "message": "Βασικές ρυθμίσεις"
+   },
+   "tab_more_operations": {
+      "message": "Περισσότερες Λειτουργίες"
+   },
+   "thanks": {
+      "message": "Δημιουργήστε με ❤️. Ευχαριστώ για τη χρήση."
+   },
+   "translate_to": {
+      "message": "Μετάφραση σε:"
+   },
+   "translation_switch": {
+      "message": "Διακόπτης μετάφρασης:"
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "ext_description": {
+      "message": "Udemy字幕翻譯器，顯示雙語字幕。"
+   },
+   "ext_fulltitle": {
+      "message": "Udemy雙字幕 - 字幕翻譯器"
+   },
+   "ext_name": {
+      "message": "Udemy雙字幕"
+   },
+   "ext_subname": {
+      "message": "字幕翻譯器"
+   },
+   "feedback": {
+      "message": "問題迴響"
+   },
+   "language": {
+      "message": "Chinese, Traditional"
+   },
+   "tab_advanced_settings": {
+      "message": "高級設置"
+   },
+   "tab_basic_settings": {
+      "message": "基本設置"
+   },
+   "tab_more_operations": {
+      "message": "更多操作"
+   },
+   "thanks": {
+      "message": "感謝您的使用～"
+   },
+   "translate_to": {
+      "message": "翻譯為："
+   },
+   "translation_switch": {
+      "message": "翻譯開關："
+   }
+}
