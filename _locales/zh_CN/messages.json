@@ -1,6 +1,6 @@
 {
    "ext_description": {
-      "message": "Udemy字幕翻译器，显示双语字幕。"
+      "message": "Udemy双语字幕翻译器，支持50+种语言。兼容Udemy Business、课程预览页和全屏模式，支持字幕下载和自定义样式。"
    },
    "ext_fulltitle": {
       "message": "Udemy双字幕 - 字幕翻译器"

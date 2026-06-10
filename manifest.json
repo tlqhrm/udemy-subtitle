@@ -37,7 +37,7 @@
    "options_page": "options.html",
    "permissions": [ "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "4.1.0",
+   "version": "5.1.0",
    "web_accessible_resources": [ {
       "matches": [ "https://*.udemy.com/*" ],
       "resources": [ "inj.js" ]

@@ -1,10 +1,12 @@
-div[class^="captions-display--captions-container--"] div {
+div[class^="captions-display--captions-container--"] div,
+div[class^="captions-display-module--captions-container--"] div {
   /* color: red !important; */
   max-width: 100% !important;
   text-align: center !important;
 }
 
-div[class^="well--container--"] span {
+div[class^="well--container--"] span,
+div[class^="well-module--container--"] span {
   /* color: red !important; */
   max-width: 100% !important;
   text-align: center !important;
